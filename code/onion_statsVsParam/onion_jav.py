@@ -1,4 +1,4 @@
-//written by Adam Sliwiak
+#written by Adam Sliwiak
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
