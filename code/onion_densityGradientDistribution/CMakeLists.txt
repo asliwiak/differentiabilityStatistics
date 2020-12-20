@@ -1,4 +1,4 @@
-//written by Qiqi Wang
+#written by Qiqi Wang
 # CMakeLists.txt
 project(CatMap)
 

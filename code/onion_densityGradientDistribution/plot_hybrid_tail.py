@@ -1,4 +1,4 @@
-//written by Adam Sliwiak
+#written by Adam Sliwiak
 from pylab import *
 from numpy import *
 
