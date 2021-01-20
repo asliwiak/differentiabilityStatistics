@@ -1,6 +1,6 @@
-## Supplementary files for "Computational assessment of smooth and rough parameter dependence in chaotic dynamical systems"
+## Supplementary files (code and data) for "Computational assessment of smooth and rough parameter dependence of statistics in chaotic dynamical systems"
 
-This is a repository of supplementary files for the manuscript titled "Computational assessment of smooth and rough parameter dependence in chaotic dynamical systems", written by Adam A Sliwiak, Nisha Chandramoorthy and Qiqi Wang
+This is a repository of supplementary files for the manuscript titled "Computational assessment of smooth and rough parameter dependence of statistics in chaotic dynamical systems", authored by Adam A Sliwiak, Nisha Chandramoorthy and Qiqi Wang.
 
 ## Note
 
